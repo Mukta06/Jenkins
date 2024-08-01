@@ -1,0 +1,2 @@
+// Name of the Jenkins file should be always <any other name if you wnat to give>Jenkinsfile  EX: AJenkinsfile
+// Now in the new update file name can be jenkinsfile --> earlier it must and should be Jenkinsfile
